@@ -1,4 +1,4 @@
-# (MAIN APP)[https://github.com/eman225511/RustPlusRaidAlarms]
+# [MAIN APP](https://github.com/eman225511/RustPlusRaidAlarms)
 
 # RustPlus Raid Alarms - Plugin Store
 
