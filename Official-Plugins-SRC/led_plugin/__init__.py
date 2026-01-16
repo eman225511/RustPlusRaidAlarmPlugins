@@ -55,7 +55,7 @@ class Plugin(PluginBase):
         return "RustPlusRaidAlarms Team"
 
     def get_homepage(self) -> str:
-        return "https://github.com/eman225511/RustPlusRaidAlarms"
+        return "https://github.com/eman225511/RustPlusRaidAlarmPlugins"
 
     def setup_controller(self):
         """Initialize LED controller based on current config."""

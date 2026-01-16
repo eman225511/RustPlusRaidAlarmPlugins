@@ -51,7 +51,7 @@ class Plugin(PluginBase):
         return "RustPlusRaidAlarms Team"
 
     def get_homepage(self) -> str:
-        return "https://github.com/eman225511/RustPlusRaidAlarms"
+        return "https://github.com/eman225511/RustPlusRaidAlarmPlugins"
     
     def _build_ui(self):
         """Build the UI"""

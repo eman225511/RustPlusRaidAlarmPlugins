@@ -49,7 +49,7 @@ class Plugin(PluginBase):
         return "RustPlusRaidAlarms Team"
 
     def get_homepage(self) -> str:
-        return "https://github.com/eman225511/RustPlusRaidAlarms"
+        return "https://github.com/eman225511/RustPlusRaidAlarmPlugins"
 
     def get_widget(self) -> QWidget:
         if self.widget is None:
